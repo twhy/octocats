@@ -1,8 +1,11 @@
 {
   "name": "octocats",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Octocats names and images",
   "main": "index.js",
+  "bin": {
+    "octocats": "./bin/octocats.js"
+  },
   "scripts": {
     "start": "node index.js"
   },
