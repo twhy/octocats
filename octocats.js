@@ -16,6 +16,6 @@ module.exports = function() {
       };
     });
 
-    fs.writeFileSync('data.json', JSON.stringify(images));
+    fs.writeFileSync('octocats.json', JSON.stringify(images));
   });
 };
