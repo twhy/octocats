@@ -1,0 +1,22 @@
+{
+  "name": "octocats",
+  "version": "0.0.1",
+  "description": "Octocats names and images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twhy/octocats.git"
+  },
+  "author": {
+    "name": "Tom Wang",
+    "email": "tom.wanghaiyi@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.81.0"
+  }
+}
