@@ -11,4 +11,5 @@ $ npm install -g octocats
 ```bash
 $ octocats
 ```
+Then you will see an `octocats.json` file in your working directory.
 
